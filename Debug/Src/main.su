@@ -1,0 +1,7 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+main.c:25:5:main	8	static
+main.c:34:6:config	8	static
+main.c:67:6:delay_us	16	static
+main.c:72:6:delay_ms	24	static
+main.c:78:6:TIM1_UP_IRQHandler	4	static
